@@ -1,0 +1,6 @@
+{
+  "name": "Asistente Contable Banco Mercantil",
+  "description": "Generador de asientos contables en partida doble y clasificación automatizada de estados de cuenta para Banco Mercantil (Venezuela) con soporte multiempresas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
